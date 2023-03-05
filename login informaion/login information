@@ -1,0 +1,47 @@
+user login 
+
+gmail: rashed@gmail.com
+pass: 1234
+
+
+
+
+Admin Login
+
+gmail: admin
+pass: rashed356
+
+
+
+1. xampp open and start 
+
+After you finish downloading the project, 
+unzip the project file and head over to your XAMPP directory.
+There you’ll find a folder naming “htdocs”.
+Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
+Open your favorite browser; we recommend using 
+Google Chrome or Mozilla Firefox.
+Then, go to URL “http://localhost/phpmyadmin“.
+
+Create a Database with a name that is provided
+ inside the **Log on to codeastro.com for more projects!***
+
+**Database Name: mm-ecom**
+
+**Developed by Rashidul BUBT
+**Recommended PHP Version 5.6, 7.4**
+.
+Click on the “Import” tab and choose the database file (.sql) which is provided under the folder naming “gift shop”.
+After setting up all these, go to URL “http://localhost/giftshop/“
+
+
+admin part:
+
+go to URL “http://localhost/giftshop/admin/“
+
+id and pass i include in top 
+
+
+
+
+
